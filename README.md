@@ -7,6 +7,13 @@
 - Accelerates response time with AI-generated replies
 - Enables scalable IT helpdesk automation
 
+## 📈 Business Value
+
+- Improves consistency in ticket triage and routing across IT teams  
+- Reduces response time by generating structured, ready-to-use replies  
+- Demonstrates a scalable AI workflow for IT service management (ITSM)  
+- Enables faster onboarding of support staff through standardized outputs  
+
 An AI-powered IT helpdesk assistant that automates ticket triage, classification, prioritization, routing, and response generation.
 
 This project demonstrates how Large Language Models (LLMs) can be applied to real-world IT Service Management (ITSM) workflows to reduce manual effort and improve response times.
