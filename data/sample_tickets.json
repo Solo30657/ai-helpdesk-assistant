@@ -1,0 +1,22 @@
+[
+  {
+    "ticket_id": "INC-10001",
+    "ticket_text": "I cannot log into my laptop after changing my password this morning. I have a customer call in 20 minutes and need access urgently."
+  },
+  {
+    "ticket_id": "INC-10002",
+    "ticket_text": "Our VPN is down for the entire sales team and nobody can connect from home."
+  },
+  {
+    "ticket_id": "INC-10003",
+    "ticket_text": "Please install Adobe Acrobat Pro on my workstation for contract review."
+  },
+  {
+    "ticket_id": "INC-10004",
+    "ticket_text": "I clicked a suspicious email link and now my system is running slowly."
+  },
+  {
+    "ticket_id": "INC-10005",
+    "ticket_text": "I need access to the finance shared drive for my new role starting today."
+  }
+]
